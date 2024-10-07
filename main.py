@@ -119,7 +119,7 @@ def insert_file(type):
       file_path = input(f'{GR} {_} Insert file: ')
       file_name = input(f'{GR} {_} Insert name: ')
       Convert = CV(file_path, file_name)
-      Convert.tcttovcf()
+      Convert.txttovcf()
     if type == "CSV":
       file_path = input(f'{GR} {_} Insert file: ')
       file_name = input(f'{GR} {_} Insert name: ')
