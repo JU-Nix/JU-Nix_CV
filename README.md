@@ -1,1 +1,1 @@
-<p align="center">CV Tools</p>
+<h1 align="center">CV Tools</h1>
