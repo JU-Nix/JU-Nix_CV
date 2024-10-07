@@ -4,12 +4,12 @@
 # Instalasi
 
 - **Clone repository**
-'''bash
+```bash
 git clone https://github.com/JU-Nix/JU-Nix_CV
-'''
-'''sh
+```
+```sh
 cd JU-Nix_CV
-'''
-'''bash
+```
+```bash
 python main.py
-'''
+```
