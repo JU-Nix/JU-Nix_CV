@@ -137,6 +137,8 @@ def menusplit():
     print(Banner())
     print(f'{GR} Select Options \n{WH} 1 {CY} VCF \n{WH} 2 {CY} CSV \n{WH} 3 {CY} XLS/X \n')
     select=input(f'{YL} |> ')
+    if select == "0":
+      break
 
 def menucv():
   while True:
